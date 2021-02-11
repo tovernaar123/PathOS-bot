@@ -1,0 +1,25 @@
+{
+  "name": "pathos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deficon",
+  "license": "ISC",
+  "dependencies": {
+    "commando": "0.0.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "git": "^0.1.5",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.11.15",
+    "opusscript": "0.0.7",
+    "quickdb": "^1.0.5",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0",
+    "ytdl-core": "^4.4.1"
+  }
+}
